@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import logo from './logo.svg';
+import logo from './Resources/Jacob_Headshot.jpg';
 import './App.css';
 
 function App() {
@@ -20,17 +20,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>Jacob Reed</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          It's me, ya boy
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+        className='App-link'
+        href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+        target='_blank'
+        rel='noopener noreferrer'
         >
-          Learn React
+          Try this page and /rick, or click this
         </a>
       </header>
     </div>
