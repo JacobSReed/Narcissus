@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Narcissus/static/css/main.f855e6bc.css",
+    "main.js": "/Narcissus/static/js/main.af4bf6a0.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Narcissus/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/Jacob_Headshot.jpg": "/Narcissus/static/media/Jacob_Headshot.4e57fecc550700f65f0d.jpg",
+    "index.html": "/Narcissus/index.html",
+    "main.f855e6bc.css.map": "/Narcissus/static/css/main.f855e6bc.css.map",
+    "main.af4bf6a0.js.map": "/Narcissus/static/js/main.af4bf6a0.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Narcissus/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.af4bf6a0.js"
+  ]
+}
